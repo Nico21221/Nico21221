@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
 <h1 align="center">Hi 👋, I'm Nico Henry</h1>
-<h3 align="center">A passionate frontend developer from New York</h3>
+<h3 align="center">A passionate full-stack developer from New York</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/pupv6qRPG4M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCw6LXkdd-AJDU-ldI4dfRhFSs2wQ">
 
 
